@@ -1,8 +1,5 @@
 /**
  * Helper file for MongoDB instance
- * author    - Ragav & Andrew
- * version   - 1.0
- * since     - 09/19/2018
  */
 require('dotenv').config();
 var settings = require('../../local.settings.json');
